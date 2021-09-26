@@ -1,0 +1,401 @@
+City,State,Population,Change
+New York,New York,8405837,4.80%
+Los Angeles,California,3884307,4.80%
+Chicago,Illinois,2718782,-6.10%
+Houston,Texas,2195914,11.00%
+Philadelphia,Pennsylvania,1553165,2.60%
+Phoenix,Arizona,1513367,14.00%
+San Antonio,Texas,1409019,21.00%
+San Diego,California,1355896,10.50%
+Dallas,Texas,1257676,5.60%
+San Jose,California,998537,10.50%
+Austin,Texas,885400,31.70%
+Indianapolis,Indiana,843393,7.80%
+Jacksonville,Florida,842583,14.30%
+San Francisco,California,837442,7.70%
+Columbus,Ohio,822553,14.80%
+Charlotte,North Carolina,792862,39.10%
+Fort Worth,Texas,792727,45.10%
+Detroit,Michigan,688701,-27.10%
+El Paso,Texas,674433,19.40%
+Memphis,Tennessee,653450,-5.30%
+Seattle,Washington,652405,15.60%
+Denver,Colorado,649495,16.70%
+Washington,District of Columbia,646449,13.00%
+Boston,Massachusetts,645966,9.40%
+Nashville-Davidson,Tennessee,634464,16.20%
+Baltimore,Maryland,622104,-4.00%
+Oklahoma City,Oklahoma,610613,20.20%
+Louisville/Jefferson County,Kentucky,609893,10.00%
+Portland,Oregon,609456,15.00%
+Las Vegas,Nevada,603488,24.50%
+Milwaukee,Wisconsin,599164,0.30%
+Albuquerque,New Mexico,556495,23.50%
+Tucson,Arizona,526116,7.50%
+Fresno,California,509924,18.30%
+Sacramento,California,479686,17.20%
+Long Beach,California,469428,1.50%
+Kansas City,Missouri,467007,5.50%
+Mesa,Arizona,457587,13.50%
+Virginia Beach,Virginia,448479,5.10%
+Atlanta,Georgia,447841,6.20%
+Colorado Springs,Colorado,439886,21.40%
+Omaha,Nebraska,434353,5.90%
+Raleigh,North Carolina,431746,48.70%
+Miami,Florida,417650,14.90%
+Oakland,California,406253,1.30%
+Minneapolis,Minnesota,400070,4.50%
+Tulsa,Oklahoma,398121,1.30%
+Cleveland,Ohio,390113,-18.10%
+Wichita,Kansas,386552,9.70%
+Arlington,Texas,379577,13.30%
+New Orleans,Louisiana,378715,-21.60%
+Bakersfield,California,363630,48.40%
+Tampa,Florida,352957,16.00%
+Honolulu,Hawaii,347884,-6.20%
+Aurora,Colorado,345803,24.40%
+Anaheim,California,345012,4.70%
+Santa Ana,California,334227,-1.20%
+St. Louis,Missouri,318416,-8.20%
+Riverside,California,316619,22.50%
+Corpus Christi,Texas,316381,14.10%
+Lexington-Fayette,Kentucky,308428,18.00%
+Pittsburgh,Pennsylvania,305841,-8.30%
+Anchorage,Alaska,300950,15.40%
+Stockton,California,298118,21.80%
+Cincinnati,Ohio,297517,-10.10%
+St. Paul,Minnesota,294873,2.80%
+Toledo,Ohio,282313,-10.00%
+Greensboro,North Carolina,279639,22.30%
+Newark,New Jersey,278427,2.10%
+Plano,Texas,274409,22.40%
+Henderson,Nevada,270811,51.00%
+Lincoln,Nebraska,268738,18.00%
+Buffalo,New York,258959,-11.30%
+Jersey City,New Jersey,257342,7.20%
+Chula Vista,California,256780,46.20%
+Fort Wayne,Indiana,256496,1.00%
+Orlando,Florida,255483,31.20%
+St. Petersburg,Florida,249688,0.30%
+Chandler,Arizona,249146,38.70%
+Laredo,Texas,248142,38.20%
+Norfolk,Virginia,246139,5.00%
+Durham,North Carolina,245475,29.90%
+Madison,Wisconsin,243344,15.80%
+Lubbock,Texas,239538,19.60%
+Irvine,California,236716,61.30%
+Winston-Salem,North Carolina,236441,16.90%
+Glendale,Arizona,234632,5.70%
+Garland,Texas,234566,8.50%
+Hialeah,Florida,233394,3.20%
+Reno,Nevada,233294,26.80%
+Chesapeake,Virginia,230571,15.10%
+Gilbert,Arizona,229972,96.00%
+Baton Rouge,Louisiana,229426,0.40%
+Irving,Texas,228653,19.10%
+Scottsdale,Arizona,226918,11.00%
+North Las Vegas,Nevada,226877,92.20%
+Fremont,California,224922,10.00%
+Boise City,Idaho,214237,9.50%
+Richmond,Virginia,214114,8.20%
+San Bernardino,California,213708,13.00%
+Birmingham,Alabama,212113,-12.30%
+Spokane,Washington,210721,7.00%
+Rochester,New York,210358,-4.10%
+Des Moines,Iowa,207510,3.90%
+Modesto,California,204933,7.70%
+Fayetteville,North Carolina,204408,2.40%
+Tacoma,Washington,203446,4.90%
+Oxnard,California,203007,18.20%
+Fontana,California,203003,38.30%
+Columbus,Georgia,202824,8.70%
+Montgomery,Alabama,201332,-0.10%
+Moreno Valley,California,201175,40.40%
+Shreveport,Louisiana,200327,-0.10%
+Aurora,Illinois,199963,38.40%
+Yonkers,New York,199766,1.80%
+Akron,Ohio,198100,-8.60%
+Huntington Beach,California,197575,3.90%
+Little Rock,Arkansas,197357,7.60%
+Augusta-Richmond County,Georgia,197350,1.10%
+Amarillo,Texas,196429,12.80%
+Glendale,California,196021,0.30%
+Mobile,Alabama,194899,-1.90%
+Grand Rapids,Michigan,192294,-2.80%
+Salt Lake City,Utah,191180,5.10%
+Tallahassee,Florida,186411,21.80%
+Huntsville,Alabama,186254,16.30%
+Grand Prairie,Texas,183372,43.10%
+Knoxville,Tennessee,183270,3.90%
+Worcester,Massachusetts,182544,5.80%
+Newport News,Virginia,182020,0.90%
+Brownsville,Texas,181860,26.80%
+Overland Park,Kansas,181260,19.40%
+Santa Clarita,California,179590,15.30%
+Providence,Rhode Island,177994,2.30%
+Garden Grove,California,175140,5.80%
+Chattanooga,Tennessee,173366,10.50%
+Oceanside,California,172794,6.60%
+Jackson,Mississippi,172638,-6.80%
+Fort Lauderdale,Florida,172389,0.70%
+Santa Rosa,California,171990,15.20%
+Rancho Cucamonga,California,171386,32.70%
+Port St. Lucie,Florida,171016,91.70%
+Tempe,Arizona,168228,5.80%
+Ontario,California,167500,5.50%
+Vancouver,Washington,167405,14.20%
+Cape Coral,Florida,165831,60.40%
+Sioux Falls,South Dakota,164676,31.10%
+Springfield,Missouri,164122,7.80%
+Peoria,Arizona,162592,46.50%
+Pembroke Pines,Florida,162329,17.40%
+Elk Grove,California,161007,97.10%
+Salem,Oregon,160614,16.40%
+Lancaster,California,159523,33.80%
+Corona,California,159503,23.60%
+Eugene,Oregon,159190,14.40%
+Palmdale,California,157161,33.70%
+Salinas,California,155662,8.40%
+Springfield,Massachusetts,153703,1.10%
+Pasadena,Texas,152735,7.50%
+Fort Collins,Colorado,152061,26.60%
+Hayward,California,151574,7.50%
+Pomona,California,151348,2.10%
+Cary,North Carolina,151088,55.10%
+Rockford,Illinois,150251,-1.00%
+Alexandria,Virginia,148892,15.00%
+Escondido,California,148738,10.70%
+McKinney,Texas,148559,165.30%
+Kansas City,Kansas,148483,1.10%
+Joliet,Illinois,147806,36.50%
+Sunnyvale,California,147559,11.90%
+Torrance,California,147478,6.60%
+Bridgeport,Connecticut,147216,5.40%
+Lakewood,Colorado,147214,1.90%
+Hollywood,Florida,146526,4.80%
+Paterson,New Jersey,145948,-2.20%
+Naperville,Illinois,144864,12.00%
+Syracuse,New York,144669,-0.90%
+Mesquite,Texas,143484,14.70%
+Dayton,Ohio,143355,-13.50%
+Savannah,Georgia,142772,7.50%
+Clarksville,Tennessee,142357,36.90%
+Orange,California,139969,7.70%
+Pasadena,California,139731,3.80%
+Fullerton,California,138981,9.80%
+Killeen,Texas,137147,52.10%
+Frisco,Texas,136791,287.70%
+Hampton,Virginia,136699,-6.60%
+McAllen,Texas,136639,27.60%
+Warren,Michigan,134873,-2.30%
+Bellevue,Washington,133992,19.10%
+West Valley City,Utah,133579,22.20%
+Columbia,South Carolina,133358,11.70%
+Olathe,Kansas,131885,40.40%
+Sterling Heights,Michigan,131224,5.20%
+New Haven,Connecticut,130660,5.50%
+Miramar,Florida,130288,74.70%
+Waco,Texas,129030,12.50%
+Thousand Oaks,California,128731,9.50%
+Cedar Rapids,Iowa,128429,5.40%
+Charleston,South Carolina,127999,29.20%
+Visalia,California,127763,33.60%
+Topeka,Kansas,127679,3.40%
+Elizabeth,New Jersey,127558,5.50%
+Gainesville,Florida,127488,12.80%
+Thornton,Colorado,127359,52.90%
+Roseville,California,127035,56.20%
+Carrollton,Texas,126700,14.90%
+Coral Springs,Florida,126604,5.70%
+Stamford,Connecticut,126456,7.60%
+Simi Valley,California,126181,12.60%
+Concord,California,125880,2.90%
+Hartford,Connecticut,125017,0.60%
+Kent,Washington,124435,54.30%
+Lafayette,Louisiana,124276,11.00%
+Midland,Texas,123933,30.40%
+Surprise,Arizona,123546,281.90%
+Denton,Texas,123099,47.10%
+Victorville,California,121096,87.60%
+Evansville,Indiana,120310,-0.80%
+Santa Clara,California,120245,17.40%
+Abilene,Texas,120099,3.60%
+Athens-Clarke County,Georgia,119980,19.00%
+Vallejo,California,118837,1.20%
+Allentown,Pennsylvania,118577,11.20%
+Norman,Oklahoma,118197,22.00%
+Beaumont,Texas,117796,3.70%
+Independence,Missouri,117240,3.20%
+Murfreesboro,Tennessee,117044,65.10%
+Ann Arbor,Michigan,117025,2.00%
+Springfield,Illinois,117006,4.20%
+Berkeley,California,116768,13.30%
+Peoria,Illinois,116513,3.00%
+Provo,Utah,116288,10.00%
+El Monte,California,115708,-0.40%
+Columbia,Missouri,115276,34.00%
+Lansing,Michigan,113972,-4.40%
+Fargo,North Dakota,113658,24.90%
+Downey,California,113242,5.30%
+Costa Mesa,California,112174,2.40%
+Wilmington,North Carolina,112067,24.80%
+Arvada,Colorado,111707,9.20%
+Inglewood,California,111542,-1.00%
+Miami Gardens,Florida,111378,10.50%
+Carlsbad,California,110972,39.70%
+Westminster,Colorado,110945,9.40%
+Rochester,Minnesota,110742,23.90%
+Odessa,Texas,110720,22.30%
+Manchester,New Hampshire,110378,2.90%
+Elgin,Illinois,110145,16.00%
+West Jordan,Utah,110077,38.40%
+Round Rock,Texas,109821,81.00%
+Clearwater,Florida,109703,0.10%
+Waterbury,Connecticut,109676,2.20%
+Gresham,Oregon,109397,20.70%
+Fairfield,California,109320,12.80%
+Billings,Montana,109059,18.60%
+Lowell,Massachusetts,108861,3.40%
+San Buenaventura (Ventura),California,108817,7.40%
+Pueblo,Colorado,108249,5.90%
+High Point,North Carolina,107741,24.30%
+West Covina,California,107740,2.30%
+Richmond,California,107571,7.90%
+Murrieta,California,107479,107.40%
+Cambridge,Massachusetts,107289,5.50%
+Antioch,California,107100,16.90%
+Temecula,California,106780,55.40%
+Norwalk,California,106589,1.90%
+Centennial,Colorado,106114,3.50%
+Everett,Washington,105370,9.40%
+Palm Bay,Florida,104898,31.70%
+Wichita Falls,Texas,104898,0.70%
+Green Bay,Wisconsin,104779,1.90%
+Daly City,California,104739,1.00%
+Burbank,California,104709,4.20%
+Richardson,Texas,104475,13.20%
+Pompano Beach,Florida,104410,4.00%
+North Charleston,South Carolina,104054,27.40%
+Broken Arrow,Oklahoma,103500,28.20%
+Boulder,Colorado,103166,9.00%
+West Palm Beach,Florida,102436,23.50%
+Santa Maria,California,102216,30.90%
+El Cajon,California,102211,7.40%
+Davenport,Iowa,102157,3.90%
+Rialto,California,101910,9.80%
+Las Cruces,New Mexico,101324,37.60%
+San Mateo,California,101128,9.00%
+Lewisville,Texas,101074,28.90%
+South Bend,Indiana,100886,-6.80%
+Lakeland,Florida,100710,18.30%
+Erie,Pennsylvania,100671,-2.80%
+Tyler,Texas,100223,18.60%
+Pearland,Texas,100065,117.20%
+College Station,Texas,100050,45.20%
+Kenosha,Wisconsin,99889,9.50%
+Sandy Springs,Georgia,99770,17.40%
+Clovis,California,99769,42.60%
+Flint,Michigan,99763,-20.00%
+Roanoke,Virginia,98465,3.80%
+Albany,New York,98424,4.10%
+Jurupa Valley,California,98030,
+Compton,California,97877,4.50%
+San Angelo,Texas,97492,10.20%
+Hillsboro,Oregon,97368,36.40%
+Lawton,Oklahoma,97151,4.90%
+Renton,Washington,97003,88.40%
+Vista,California,96929,7.70%
+Davie,Florida,96830,17.70%
+Greeley,Colorado,96539,23.10%
+Mission Viejo,California,96346,2.90%
+Portsmouth,Virginia,96205,-4.20%
+Dearborn,Michigan,95884,-2.00%
+South Gate,California,95677,-0.80%
+Tuscaloosa,Alabama,95334,21.10%
+Livonia,Michigan,95208,-5.40%
+New Bedford,Massachusetts,95078,1.20%
+Vacaville,California,94275,5.40%
+Brockton,Massachusetts,94089,-0.30%
+Roswell,Georgia,94034,15.20%
+Beaverton,Oregon,93542,17.00%
+Quincy,Massachusetts,93494,5.80%
+Sparks,Nevada,93282,39.40%
+Yakima,Washington,93257,11.70%
+Lee's Summit,Missouri,93184,31.20%
+Federal Way,Washington,92734,8.80%
+Carson,California,92599,2.90%
+Santa Monica,California,92472,9.60%
+Hesperia,California,92147,46.10%
+Allen,Texas,92020,104.00%
+Rio Rancho,New Mexico,91956,74.40%
+Yuma,Arizona,91923,16.20%
+Westminster,California,91739,3.90%
+Orem,Utah,91648,8.50%
+Lynn,Massachusetts,91589,2.60%
+Redding,California,91119,11.90%
+Spokane Valley,Washington,91113,12.60%
+Miami Beach,Florida,91026,3.30%
+League City,Texas,90983,98.30%
+Lawrence,Kansas,90811,12.70%
+Santa Barbara,California,90412,0.90%
+Plantation,Florida,90268,8.60%
+Sandy,Utah,90231,1.30%
+Sunrise,Florida,90116,4.60%
+Macon,Georgia,89981,-7.30%
+Longmont,Colorado,89919,24.40%
+Boca Raton,Florida,89407,7.50%
+San Marcos,California,89387,60.00%
+Greenville,North Carolina,89130,41.90%
+Waukegan,Illinois,88826,0.50%
+Fall River,Massachusetts,88697,-3.70%
+Chico,California,88077,14.20%
+Newton,Massachusetts,87971,4.90%
+San Leandro,California,87965,10.30%
+Reading,Pennsylvania,87893,8.00%
+Norwalk,Connecticut,87776,5.60%
+Fort Smith,Arkansas,87650,8.60%
+Newport Beach,California,87273,10.40%
+Asheville,North Carolina,87236,19.60%
+Nashua,New Hampshire,87137,0.40%
+Edmond,Oklahoma,87004,26.90%
+Whittier,California,86635,3.30%
+Nampa,Idaho,86518,57.90%
+Bloomington,Minnesota,86319,1.30%
+Deltona,Florida,86290,23.10%
+Hawthorne,California,86199,2.30%
+Duluth,Minnesota,86128,-0.10%
+Carmel,Indiana,85927,60.40%
+Suffolk,Virginia,85728,33.50%
+Clifton,New Jersey,85390,7.90%
+Citrus Heights,California,85285,-0.10%
+Livermore,California,85156,15.10%
+Tracy,California,84691,45.90%
+Alhambra,California,84577,-0.70%
+Kirkland,Washington,84430,87.50%
+Trenton,New Jersey,84349,-1.20%
+Ogden,Utah,84249,8.60%
+Hoover,Alabama,84126,32.70%
+Cicero,Illinois,84103,-1.60%
+Fishers,Indiana,83891,114.80%
+Sugar Land,Texas,83860,29.10%
+Danbury,Connecticut,83684,11.40%
+Meridian,Idaho,83596,127.60%
+Indio,California,83539,66.00%
+Concord,North Carolina,83506,47.40%
+Menifee,California,83447,95.00%
+Champaign,Illinois,83424,18.30%
+Buena Park,California,82882,6.10%
+Troy,Michigan,82821,2.20%
+O'Fallon,Missouri,82809,62.60%
+Johns Creek,Georgia,82788,36.50%
+Bellingham,Washington,82631,21.80%
+Westland,Michigan,82578,-4.70%
+Bloomington,Indiana,82575,16.10%
+Sioux City,Iowa,82459,-2.90%
+Warwick,Rhode Island,81971,-4.60%
+Hemet,California,81750,37.60%
+Longview,Texas,81443,11.60%
+Farmington Hills,Michigan,81295,-0.90%
+Bend,Oregon,81236,54.30%
+Lakewood,California,81121,2.10%
+Merced,California,81102,25.40%
